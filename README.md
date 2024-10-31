@@ -1,4 +1,4 @@
-Hey this is my project about dcomparsion between 2 wifi standards 802.11b and 802.11bc and compare their tcp and udp and power consumptions. Its all python scripts by pycharm
+Hey this is my project about comparsion between 2 wifi standards 802.11b and 802.11bc and compare their tcp and udp and power consumptions. Its all python scripts by pycharm
 
 to run this and get the result:
 
